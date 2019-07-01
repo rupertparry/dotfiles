@@ -16,8 +16,10 @@ module.exports = {
     cursorShape: 'BLOCK',
 
     // set to true for blinking cursor
-    cursorBlink: false,
-    
+    cursorBlink: true,
+
+    foregroundColor: '#fffbed',
+
     backgroundColor: '#000',
 
     // custom css to embed in the main window
