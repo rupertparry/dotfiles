@@ -53,10 +53,7 @@ module.exports = {
   },
 
   plugins: [
-    'hypercwd',
     'hyper-flat',
-    'hyper-font-smoothing',
-    'gitrocket',
     'hypercwd',
     'hyperline',
     'hyper-final-say'
